@@ -12,14 +12,14 @@
 ## Results:
 ### Theater Outcomes by Launch Date Conclusions
 One conclusion we can make based on the Theater Outcomes by Launch Date is that the months of May, June, and July tend to be the most popular time that campaigns are launched but does not show vailed reasoning of why Louise should launch her play during these months of the year.  Of the 1,369 campaigns, 33% are launched in this 3-month time gap. The mean of total successful launched plays is 69.1. This 3-month period is well above the average sitting at 111,100, and 87. The mean of failed play campaigns based on launch date is 41.1. Also, during this grouping, the failed plays per campaign based on launch date was also above average sitting at 52,49,50. Now competition could play into factor in determining if these plays were to be successful or not 
-
-
   
 Another conclusion we can make based off the Theater Outcomes by Launch Date is that the month of December play campaigns have a close to 50% chance of either running a successful or failed campaign. 
   
   
 ### Outcomes Based on Goals Conclusion
-One conclusion we can determine from our Outcomes based on Goals charts and graph is that when launching a play campaign, it is recommended to limit the goal amount to be less than $4,999. Our current data shows that when play campaigns are budgeted for less than $4,999 then there is a higher chance of success and a lower chance of failure. When we begin to exceed the goal of $5,000 the success rate drops from 73% to 55% and the failure rate rises from 27% to 45%. Our data shows that when kickstarting a goal between less than $1,000 to $4,999 there were a total of 720 projects. Of those 720 projects 529 (73%) projects were successful and 191 (27%) projects failed. 
+One conclusion we can determine from our Outcomes based on Goals charts and graph is that when launching a play campaign, it is recommended to limit the goal amount to be less than $4,999. Our current data shows that when play campaigns are budgeted for less than $4,999 then there is a higher chance of success and a lower chance of failure. When we begin to exceed the goal of $5,000 the success rate drops from 73% to 55% and the failure rate rises from 27% to 45%. Our data shows that when kickstarting a goal between less than $1,000 to $4,999 there were a total of 720 projects. Of those 720 projects 529 (73%) projects were successful and 191 (27%) projects failed.
+
+![](Outcomes_vs_Goals.png)
 
 ### Limitations
 Given the current data set does contain 4,115 different campaigns over a nine-year time span there are different factors or limitations that could cause various of outcomes.  Some limitations that could determine the success or failure of a play campaign could simply be actors or actress within the play, location of the play, accuracy of information, and incomplete dataset. Some limitations that others would categorize as an outlier when analyzing the plays campaigns is if there were a well-known actor or actress staring in one of the plays. If this was a condition, it could have played a valuable reason of why the play could have been successful or not. 
