@@ -4,6 +4,9 @@
 
   The Kickstarter Campaign is a data series that collected a vast range of measurables within an array of categories that helped Louise visually compare outcomes based on campaign launch dates as well as outcomes based on funding goals per project. The visual analysis provided to Louise will then determine a timeline and a reccommended number of means to get the full benefit in order for her own play to become successful. 
   
+  ## Tools:
+  Microsoft Excel
+  
 ## Analysis and Challenges:
   The following analysis was preformed by pinpointing the questions that Louise had in order to get an understanding for the project she is intending to launch. When filtering the information given to us we determined as her project was focused on a play that it was best to measure the success of all 1,369 plays that were included. When exposing the trends within the data series we were able to determine a time frame for success within a seasonality range of May to July as well as a effective cost that help Louise budget the project. These measurables were easily displayed for Louise by creating pivot tables, line charts, and manually inputted tables.
  
